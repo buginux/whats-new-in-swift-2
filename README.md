@@ -9,3 +9,7 @@ Swift 2.0 新特性系列博客的示例代码
 ## 02-错误处理（下）
 
 具体博客文章请见：http://www.jianshu.com/p/7596fb3ca1ae
+
+## 03-选项集合(OptionSets)
+
+具体博客文章请见：http://www.jianshu.com/p/ef14cf0cb37c
